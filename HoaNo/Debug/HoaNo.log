@@ -1,0 +1,14 @@
+﻿  HoaNoView.cpp
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(23,1): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(66,2): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(73,9): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(75,25): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(81,22): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(87,21): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(91,16): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(115,2): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(131,10): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(133,26): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(143,23): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\HoaNo\HoaNoView.cpp(153,22): warning C4566:  character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  HoaNo.vcxproj -> E:\Homework\TTN\Năm 3\LTHDT\HoaNo\HoaNo\Debug\HoaNo.exe
